@@ -3,6 +3,7 @@
 Este firmware es una implementación de bajo nivel para la monitorización de temperatura y humedad utilizando un sensor **AHT10/AHT20** y una pantalla **OLED SSD1306**. El proyecto destaca por prescindir totalmente de librerías gráficas externas, optimizando el uso de memoria y CPU.
 
 ---
+Vídeo demostración:https://drive.google.com/drive/folders/19YlbOV0AHKdnRrGZiQjH4etD5tFrd6fS?usp=drive_link
 
 ## 🚀 Características Principales
 
